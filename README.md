@@ -1,4 +1,8 @@
-cephalopod-ontology
+This is a 000generic fork of the initial cephalopod-ontology put together by Chris Mungall.
+
+From the original README.md:
+
+
 ===================
 
 Ontology of cephalopod anatomy and traits
