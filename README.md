@@ -1,7 +1,8 @@
 This is a 000generic fork of the initial cephalopod-ontology put together by Chris Mungall.
 
-From the original README.md:
+A web page for the project is at: http://000generic.github.io/cephalopod-ontology/
 
+The original README.md is:
 
 ===================
 
